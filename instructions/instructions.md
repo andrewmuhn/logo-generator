@@ -13,7 +13,6 @@ Refer to the [Video Submission Guide](https://coding-boot-camp.github.io/full-st
 
 ```md
 AS a freelance web developer
-I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 ```
 
