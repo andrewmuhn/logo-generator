@@ -1,0 +1,31 @@
+{
+	"name": "logo-generator",
+	"description": "A command line logo generator. Input the text, shape, and color and have a svg file created",
+	"version": "1.0.0",
+	"main": "index.js",
+	"directories": {
+		"lib": "lib",
+		"test": "tests"
+	},
+	"scripts": {
+		"test": "jest",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/andrewmuhn/logo-generator.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/andrewmuhn/logo-generator/issues"
+	},
+	"homepage": "https://github.com/andrewmuhn/logo-generator#readme",
+	"dependencies": {
+		"inquirer": "^8.2.4"
+	},
+	"devDependencies": {
+		"jest": "^28.1.3"
+	}
+}
