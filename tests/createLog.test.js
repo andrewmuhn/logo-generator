@@ -7,7 +7,7 @@ describe('createLogo', () => {
 
   <polygon points="150, 18 244, 182 56, 182" fill="blue" /> 
 
-  <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">TST</text>
+  <text x="150" y="150" font-size="60" text-anchor="middle" fill="white">TST</text>
 
 </svg>`);
   });
