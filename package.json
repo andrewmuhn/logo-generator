@@ -23,7 +23,8 @@
 	},
 	"homepage": "https://github.com/andrewmuhn/logo-generator#readme",
 	"dependencies": {
-		"inquirer": "^8.2.4"
+		"inquirer": "^8.2.4",
+		"validate-color": "^2.2.4"
 	},
 	"devDependencies": {
 		"jest": "^28.1.3"
