@@ -37,9 +37,11 @@ or
 
 Then follow the prompts in your CLI and enter in required information to have a logo generated. It will me called 'logo.svg'. This file can then be copied and renamed in your project repository.
 
-<!-- ![Example Usage](./assets/images/Demo.gif) -->
+Video of application being used:
 
-<!-- [link to demo video](https://drive.google.com/file/d/1xkOiRpDnTthJEjApVhJUyHSh98OAqSWC/view) -->
+![Example Usage](./assets/images/demo.gif)
+
+[link to demo video](https://drive.google.com/file/d/1l7335hXSynEFSEIdpOgOzt-T4eovoKjf/view)
 
 ## Credits
 
